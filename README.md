@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @llitera
-- 👀 I’m interested in ... Data Science, web scraping
+- 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... R, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
